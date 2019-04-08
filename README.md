@@ -1,4 +1,4 @@
-# MiniProject_DF-Vis
+# Monitoring Rangeland Forage Production and Plant Phenological Cycles Using Satellite Images
 
 ## Project summary
 
